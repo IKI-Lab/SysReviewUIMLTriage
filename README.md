@@ -1,0 +1,1 @@
+Code for the literature search done for the current preprint Systematic Review on User Interfaces in ML-based Decision Support for Emergency Department Triaging by Kirsten Zantvoort, Sylvain Brouwer, Nadine Schlicker, Peter Mross, Andreas Jerrentrup, Martin C. Hirsch, and Philipp Russ"
