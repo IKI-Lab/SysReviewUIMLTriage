@@ -1,6 +1,4 @@
 import pandas as pd
-
-import pandas as pd
 from Bio import Entrez
 import time
 import os
@@ -220,5 +218,5 @@ combined_df = pd.concat(all_dfs, ignore_index=True)
 final_df = deduplicate(combined_df)
 print(len(final_df))
 
-#final_df.to_csv(PATH+"combined_deduplicated_results.csv", sep=';', index=False)
-#print("\n Saved: combined_deduplicated_results.csv")
+final_df.to_csv(PATH+"combined_deduplicated_results.csv", sep=';', index=False)
+print("\n Saved: combined_deduplicated_results.csv")
